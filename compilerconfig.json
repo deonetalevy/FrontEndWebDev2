@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "less.css",
+    "inputFile": "less.less"
+  },
+  {
+    "outputFile": "sass.css",
+    "inputFile": "sass.scss"
+  },
+  {
+    "outputFile": "sass.css",
+    "inputFile": "sass.sass"
+  },
+  {
+    "outputFile": "stylus.css",
+    "inputFile": "stylus.styl"
+  }
+]
